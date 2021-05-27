@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(206, 221, 233);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: rgb(255, 30, 0);
+    color:#ffffff;
+    text-align: center;
+    width: auto;
+}
+
+.manager-card {
+    background-color: salmon;
+    color: #ffffff;
+    margin: 2rem;
+}
+
+.engineer-card {
+    background-color: rgb(70, 155, 70);
+    color: #ffffff;
+    margin: 2rem;
+}
+
+.intern-card {
+    background-color: rgb(196, 196, 44);
+    color: #ffffff;
+    margin: 2rem;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "An application to generate a team with information and roles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjarquin1/teamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjarquin1/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/jjarquin1/teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "path": "^0.12.7"
+  }
+}
