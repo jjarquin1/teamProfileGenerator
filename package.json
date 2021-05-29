@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "An application to generate a team with information and roles.",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,6 +23,6 @@
   "homepage": "https://github.com/jjarquin1/teamProfileGenerator#readme",
   "dependencies": {
     "inquirer": "^8.1.0",
-    "path": "^0.12.7"
+    "jest": "^27.0.1"
   }
 }
